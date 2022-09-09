@@ -2,6 +2,25 @@
     background:#D3D3D3;
  }
 
+ header {
+    background-color: #ef99ff;
+    padding-top:1px;
+    padding-bottom:50px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    height: 100px;
+  }
+  
+  
+  article {
+    float: left;
+    padding: 20px;
+    width: 100%;
+    background-color: #f7d5f3;
+    text-align: center;
+  }
+
  footer {
     background-color: #ef99ff;
     padding: 10px;
